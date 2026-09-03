@@ -13,15 +13,15 @@
             "id": "https://stratparty.github.io/strat-party-site-testing.html",
             "url": "https://stratparty.github.io/strat-party-site-testing.html",
             "title": "Strat Party Site Testing",
-            "summary": "This is a quick test post to check my social media icons and sites https://www.instagram.com/stratparty/ https://www.youtube.com/@stratparty https://x.com/stratparty1",
-            "content_html": "\n  <p>\n    This is a quick test post to check my social media icons and sites\n  </p>\n\n  <p>\n    https://www.instagram.com/stratparty/\n  </p>\n\n  <p>\n    https://www.youtube.com/@stratparty\n  </p>\n\n  <p>\n    https://x.com/stratparty1\n  </p>\n\n  <p>\n    \n  </p>",
+            "summary": "This is a quick test post to check my social media icons and sites https://www.instagram.com/stratparty/ https://www.youtube.com/@stratparty https://x.com/stratparty1 /html",
+            "content_html": "\n  <p>\n    This is a quick test post to check my social media icons and sites\n  </p>\n\n  <p>\n    https://www.instagram.com/stratparty/\n  </p>\n\n  <p>\n    https://www.youtube.com/@stratparty\n  </p>\n\n  <p>\n    https://x.com/stratparty1\n  </p>\n\n  <p>\n    /html\n  </p>\n<div><behold-widget feed-id=\"nD9ts7F4FFYM6uGlh3hY\"></behold-widget>\n<script>\n  (() => {\n    if(window.__bhldScript)return;window.__bhldScript=true;\n    const d=document,s=d.createElement(\"script\");s.type=\"module\";\n    s.src=\"https://w.behold.so/widget.js\";setTimeout(()=>{d.head.append(s);},0);\n  })();\n</script>\n</div>",
             "author": {
                 "name": "stratparty"
             },
             "tags": [
             ],
             "date_published": "2026-09-03T11:50:33+10:00",
-            "date_modified": "2026-09-03T11:59:53+10:00"
+            "date_modified": "2026-09-03T15:55:25+10:00"
         }
     ]
 }

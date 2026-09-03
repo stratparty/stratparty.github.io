@@ -3,7 +3,7 @@
     <title>stratparty.com</title>
     <link href="https://stratparty.github.io/feed.xml" rel="self" />
     <link href="https://stratparty.github.io" />
-    <updated>2026-09-03T11:59:53+10:00</updated>
+    <updated>2026-09-03T15:55:25+10:00</updated>
     <author>
         <name>stratparty</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2026-09-03T11:50:33+10:00</updated>
             <summary type="html">
                 <![CDATA[
-                    This is a quick test post to check my social media icons and sites https://www.instagram.com/stratparty/ https://www.youtube.com/@stratparty https://x.com/stratparty1
+                    This is a quick test post to check my social media icons and sites https://www.instagram.com/stratparty/ https://www.youtube.com/@stratparty https://x.com/stratparty1 /html
                 ]]>
             </summary>
         <content type="html">
@@ -43,8 +43,17 @@
   </p>
 
   <p>
-    
+    /html
   </p>
+<div><behold-widget feed-id="nD9ts7F4FFYM6uGlh3hY"></behold-widget>
+<script>
+  (() => {
+    if(window.__bhldScript)return;window.__bhldScript=true;
+    const d=document,s=d.createElement("script");s.type="module";
+    s.src="https://w.behold.so/widget.js";setTimeout(()=>{d.head.append(s);},0);
+  })();
+</script>
+</div>
             ]]>
         </content>
     </entry>
