@@ -3,10 +3,49 @@
     <title>stratparty.com</title>
     <link href="https://stratparty.github.io/feed.xml" rel="self" />
     <link href="https://stratparty.github.io" />
-    <updated>1970-01-01T10:00:00+10:00</updated>
+    <updated>2026-09-03T11:59:53+10:00</updated>
     <author>
         <name>stratparty</name>
     </author>
     <id>https://stratparty.github.io</id>
 
+    <entry>
+        <title>Strat Party Site Testing</title>
+        <author>
+            <name>stratparty</name>
+        </author>
+        <link href="https://stratparty.github.io/strat-party-site-testing.html"/>
+        <id>https://stratparty.github.io/strat-party-site-testing.html</id>
+
+        <updated>2026-09-03T11:50:33+10:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a quick test post to check my social media icons and sites https://www.instagram.com/stratparty/ https://www.youtube.com/@stratparty https://x.com/stratparty1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is a quick test post to check my social media icons and sites
+  </p>
+
+  <p>
+    https://www.instagram.com/stratparty/
+  </p>
+
+  <p>
+    https://www.youtube.com/@stratparty
+  </p>
+
+  <p>
+    https://x.com/stratparty1
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

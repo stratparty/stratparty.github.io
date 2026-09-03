@@ -9,5 +9,19 @@
         "name": "stratparty"
     },
     "items": [
+        {
+            "id": "https://stratparty.github.io/strat-party-site-testing.html",
+            "url": "https://stratparty.github.io/strat-party-site-testing.html",
+            "title": "Strat Party Site Testing",
+            "summary": "This is a quick test post to check my social media icons and sites https://www.instagram.com/stratparty/ https://www.youtube.com/@stratparty https://x.com/stratparty1",
+            "content_html": "\n  <p>\n    This is a quick test post to check my social media icons and sites\n  </p>\n\n  <p>\n    https://www.instagram.com/stratparty/\n  </p>\n\n  <p>\n    https://www.youtube.com/@stratparty\n  </p>\n\n  <p>\n    https://x.com/stratparty1\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "stratparty"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-03T11:50:33+10:00",
+            "date_modified": "2026-09-03T11:59:53+10:00"
+        }
     ]
 }
